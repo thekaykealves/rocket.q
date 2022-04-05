@@ -8,11 +8,11 @@
 
 <h2>TECNOLOGIAS 🚀</h2>
 <ul>
-    <li>HTML 🔥</li>
-    <li>CSS 🔥</li>
-    <li>JAVASCRIPT 🔥</li>
-    <li>NODE.JS 🔥</li>
-    <li>EJS 🔥</li>
-    <li>EXPRESS 🔥</li>
-    <li>SQLite3 🔥</li>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JAVASCRIPT</li>
+    <li>NODE.JS</li>
+    <li>EJS</li>
+    <li>EXPRESS</li>
+    <li>SQLite3</li>
 </ul>
